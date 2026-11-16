@@ -15,9 +15,9 @@ Para abrir a página já em um vídeo específico, acrescente `#video-NN` ao end
 
 | Nº | Vídeo | Duração |
 | --- | --- | --- |
-| 01 | Conhecendo o sistema de infusão | 2:10 |
+| 01 | Conhecendo o sistema de infusão | 2:11 |
 | 02 | Os 5 passos da infusão | 1:10 |
-| 03 | Passo 1: Planejar | 2:49 |
+| 03 | Passo 1: Planejar | 2:50 |
 | 04 | Passo 2: Preparar a seringa | 3:44 |
 | 05 | Passo 2: Conectar o tubo e colocar a seringa na bomba | 1:54 |
 | 06 | Passo 3: Preencher o tubo | 2:54 |
@@ -26,7 +26,7 @@ Para abrir a página já em um vídeo específico, acrescente `#video-NN` ao end
 | 09 | Passo 5: Iniciar a infusão | 2:18 |
 | 10 | Parar e reiniciar a bomba | 1:05 |
 | 11 | Trocar somente a seringa | 3:04 |
-| 12 | Desconectar e reconectar em menos de 1 hora | 2:37 |
+| 12 | Desconectar e reconectar em menos de 1 hora | 2:38 |
 | 13 | Trocar o tubo e a cânula | 2:39 |
 | 14 | Trocar seringa, tubo e cânula | 2:27 |
 | 15 | Opções de dose | 1:30 |
