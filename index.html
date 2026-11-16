@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Treinamento em vídeo: infusão de foslevodopa</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%2341525c'/%3E%3Cpath d='M25 18v28l22-14z' fill='%23ece93e'/%3E%3C/svg%3E">
+<style>
+  :root { --ardosia: #41525c; --ardosia-escura: #2f3d45; --lima: #ece93e; --verde: #0a7369; --tinta: #1f2a30;
+          --suave: #55656e; --linha: #d6dde1; --fundo: #f4f6f7; --branco: #fff; }
+  * { box-sizing: border-box; }
+  html { font-size: 112.5%; scroll-behavior: smooth; }
+  body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--tinta); background: var(--fundo); line-height: 1.5; }
+  header { background: var(--ardosia); color: var(--branco); border-bottom: 5px solid var(--lima); }
+  .caixa { max-width: 960px; margin: 0 auto; padding: 0 1rem; }
+  header .caixa { padding-top: 1.4rem; padding-bottom: 1.3rem; }
+  h1 { margin: 0 0 .35rem; font-size: 1.6rem; line-height: 1.2; }
+  header p { margin: 0; color: #dfe6ea; }
+  main { padding: 1.2rem 0 2.5rem; }
+  .aviso { background: var(--branco); border-left: 6px solid var(--verde); border-radius: 8px; padding: .8rem 1rem;
+           margin: 0 0 1.2rem; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  .aviso p { margin: 0 0 .35rem; } .aviso p:last-child { margin: 0; }
+  #tocador { background: var(--branco); border-radius: 12px; padding: 1rem; box-shadow: 0 1px 4px rgba(0,0,0,.1);
+             scroll-margin-top: .5rem; }
+  #posicao { margin: 0; color: var(--verde); font-weight: 700; font-size: .9rem; letter-spacing: .02em; text-transform: uppercase; }
+  #titulo { margin: .1rem 0 .7rem; font-size: 1.35rem; line-height: 1.25; }
+  video { display: block; width: 100%; aspect-ratio: 16 / 9; background: var(--ardosia-escura); border-radius: 8px; }
+  #descricao { margin: .7rem 0 0; color: var(--suave); }
+  #concluido { display: none; margin: .8rem 0 0; padding: .7rem .9rem; background: #eef7f5; border: 2px solid var(--verde);
+               border-radius: 8px; font-weight: 600; }
+  #concluido.visivel { display: block; }
+  .botoes { display: flex; gap: .7rem; margin-top: .9rem; flex-wrap: wrap; }
+  button { font: inherit; cursor: pointer; }
+  .botoes button { flex: 1 1 12rem; min-height: 3.2rem; padding: .6rem 1rem; border-radius: 8px; border: 2px solid var(--ardosia);
+                   background: var(--branco); color: var(--ardosia); font-weight: 700; }
+  .botoes button.principal { background: var(--ardosia); color: var(--branco); }
+  .botoes button:disabled { opacity: .4; cursor: default; }
+  h2.parte { margin: 1.8rem 0 .6rem; font-size: 1.1rem; color: var(--ardosia); }
+  ol.lista { list-style: none; margin: 0; padding: 0; display: grid; gap: .55rem; }
+  .item { display: grid; grid-template-columns: 2.6rem 1fr auto; gap: .8rem; align-items: center; width: 100%; text-align: left;
+          padding: .7rem .9rem; min-height: 4.2rem; background: var(--branco); color: inherit; border: 2px solid var(--linha);
+          border-radius: 10px; }
+  .item:hover { border-color: var(--ardosia); }
+  .item[aria-current="true"] { border-color: var(--verde); background: #eef7f5; }
+  .num { display: grid; place-items: center; width: 2.6rem; height: 2.6rem; border-radius: 50%; background: var(--ardosia);
+         color: var(--branco); font-weight: 700; }
+  .item.visto .num { background: var(--verde); }
+  .nome { display: block; font-weight: 700; line-height: 1.25; }
+  .desc { display: block; color: var(--suave); font-size: .9rem; line-height: 1.35; margin-top: .15rem; }
+  .meta { text-align: right; color: var(--suave); font-size: .9rem; white-space: nowrap; }
+  .meta .ok { display: none; color: var(--verde); font-weight: 700; }
+  .item.visto .meta .ok { display: block; }
+  :focus-visible { outline: 3px solid var(--lima); outline-offset: 2px; box-shadow: 0 0 0 5px var(--ardosia); }
+  footer { color: var(--suave); font-size: .85rem; padding: 0 0 2rem; }
+  @media (max-width: 540px) { html { font-size: 106%; } .item { grid-template-columns: 2.4rem 1fr; } .meta { grid-column: 2; text-align: left; }
+                              .meta .ok { display: none; } .item.visto .meta .ok { display: inline; margin-left: .6rem; } }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="caixa">
+    <h1>Treinamento em vídeo: infusão de foslevodopa</h1>
+    <p>Vídeos para pacientes e cuidadores, para assistir antes da primeira infusão e rever sempre que precisar.</p>
+  </div>
+</header>
+<main class="caixa">
+  <div class="aviso">
+    <p>Estes vídeos complementam o treinamento feito com a sua equipe de saúde.</p>
+    <p>Nos vídeos, a tela da bomba aparece em inglês. Na sua bomba, o texto é em português.</p>
+  </div>
+
+  <section id="tocador" aria-label="Vídeo em exibição">
+    <p id="posicao"></p>
+    <h2 id="titulo" tabindex="-1"></h2>
+    <video id="video" controls playsinline preload="metadata"></video>
+    <p id="descricao"></p>
+    <p id="concluido" role="status"></p>
+    <div class="botoes">
+      <button type="button" id="anterior">← Vídeo anterior</button>
+      <button type="button" id="proximo" class="principal">Próximo vídeo →</button>
+    </div>
+  </section>
+
+  <section id="videos" aria-label="Todos os vídeos"></section>
+
+  <noscript>
+    <p>Para ver os vídeos nesta página, ative o JavaScript no navegador. Você também pode abrir cada vídeo diretamente:</p>
+    <ol><li><a href="videos/01-conhecendo-o-sistema.mp4">Conhecendo o sistema de infusão</a> (2:10 min)</li><li><a href="videos/02-os-5-passos.mp4">Os 5 passos da infusão</a> (1:10 min)</li><li><a href="videos/03-passo-1-planejar.mp4">Passo 1: Planejar</a> (2:49 min)</li><li><a href="videos/04-passo-2-preparar-a-seringa.mp4">Passo 2: Preparar a seringa</a> (3:44 min)</li><li><a href="videos/05-passo-2-tubo-e-bomba.mp4">Passo 2: Conectar o tubo e colocar a seringa na bomba</a> (1:54 min)</li><li><a href="videos/06-passo-3-preencher-o-tubo.mp4">Passo 3: Preencher o tubo</a> (2:54 min)</li><li><a href="videos/07-passo-4-local-de-infusao.mp4">Passo 4: Escolher e limpar o local de infusão</a> (1:57 min)</li><li><a href="videos/08-passo-4-inserir-a-canula.mp4">Passo 4: Inserir a cânula e conectar o tubo</a> (3:21 min)</li><li><a href="videos/09-passo-5-iniciar-a-infusao.mp4">Passo 5: Iniciar a infusão</a> (2:18 min)</li><li><a href="videos/10-parar-e-reiniciar-a-bomba.mp4">Parar e reiniciar a bomba</a> (1:05 min)</li><li><a href="videos/11-trocar-somente-a-seringa.mp4">Trocar somente a seringa</a> (3:04 min)</li><li><a href="videos/12-desconectar-e-reconectar.mp4">Desconectar e reconectar em menos de 1 hora</a> (2:37 min)</li><li><a href="videos/13-trocar-tubo-e-canula.mp4">Trocar o tubo e a cânula</a> (2:39 min)</li><li><a href="videos/14-trocar-seringa-tubo-e-canula.mp4">Trocar seringa, tubo e cânula</a> (2:27 min)</li><li><a href="videos/15-opcoes-de-dose.mp4">Opções de dose</a> (1:30 min)</li><li><a href="videos/16-alarmes-e-mensagens.mp4">Alarmes e mensagens da bomba</a> (1:51 min)</li></ol>
+  </noscript>
+</main>
+<footer class="caixa">
+  <p>Série de 16 vídeos, cerca de 38 minutos no total. Os vídeos têm narração (voz sintética) e legendas em português.</p>
+</footer>
+
+<script>
+const VIDEOS = [{"n": 1, "arquivo": "01-conhecendo-o-sistema", "titulo": "Conhecendo o sistema de infusão", "descricao": "As peças do sistema e como elas funcionam juntas.", "parte": "A", "duracao": "2:10", "mb": 14.5}, {"n": 2, "arquivo": "02-os-5-passos", "titulo": "Os 5 passos da infusão", "descricao": "Visão geral dos cinco passos para preparar a infusão.", "parte": "A", "duracao": "1:10", "mb": 7.2}, {"n": 3, "arquivo": "03-passo-1-planejar", "titulo": "Passo 1: Planejar", "descricao": "Lavar as mãos, limpar a bancada e conferir o material e o frasco.", "parte": "A", "duracao": "2:49", "mb": 21.9}, {"n": 4, "arquivo": "04-passo-2-preparar-a-seringa", "titulo": "Passo 2: Preparar a seringa", "descricao": "Passar o medicamento do frasco para a seringa e retirar as bolhas de ar.", "parte": "A", "duracao": "3:44", "mb": 32.8}, {"n": 5, "arquivo": "05-passo-2-tubo-e-bomba", "titulo": "Passo 2: Conectar o tubo e colocar a seringa na bomba", "descricao": "Conectar o tubo à seringa e colocar a seringa na bomba.", "parte": "A", "duracao": "1:54", "mb": 16.4}, {"n": 6, "arquivo": "06-passo-3-preencher-o-tubo", "titulo": "Passo 3: Preencher o tubo", "descricao": "Encher o tubo com o medicamento antes de conectar ao corpo.", "parte": "A", "duracao": "2:54", "mb": 21.6}, {"n": 7, "arquivo": "07-passo-4-local-de-infusao", "titulo": "Passo 4: Escolher e limpar o local de infusão", "descricao": "Onde inserir a cânula, distâncias, rodízio e limpeza da pele.", "parte": "A", "duracao": "1:57", "mb": 15.0}, {"n": 8, "arquivo": "08-passo-4-inserir-a-canula", "titulo": "Passo 4: Inserir a cânula e conectar o tubo", "descricao": "Usar o dispositivo de inserção, conectar o tubo e olhar o local com frequência.", "parte": "A", "duracao": "3:21", "mb": 26.2}, {"n": 9, "arquivo": "09-passo-5-iniciar-a-infusao", "titulo": "Passo 5: Iniciar a infusão", "descricao": "Ligar a bomba, entender a tela e usar o estojo de transporte.", "parte": "A", "duracao": "2:18", "mb": 17.2}, {"n": 10, "arquivo": "10-parar-e-reiniciar-a-bomba", "titulo": "Parar e reiniciar a bomba", "descricao": "Parar e reiniciar a infusão pelo menu da bomba.", "parte": "B", "duracao": "1:05", "mb": 7.1}, {"n": 11, "arquivo": "11-trocar-somente-a-seringa", "titulo": "Trocar somente a seringa", "descricao": "A troca da seringa, mantendo o mesmo tubo e a mesma cânula.", "parte": "B", "duracao": "3:04", "mb": 24.2}, {"n": 12, "arquivo": "12-desconectar-e-reconectar", "titulo": "Desconectar e reconectar em menos de 1 hora", "descricao": "Para pausas curtas, como o banho: como desconectar e reconectar, e o que fazer se o conector ficar preso.", "parte": "B", "duracao": "2:37", "mb": 20.0}, {"n": 13, "arquivo": "13-trocar-tubo-e-canula", "titulo": "Trocar o tubo e a cânula", "descricao": "Quando ficou mais de 1 hora desconectado ou na troca da cânula.", "parte": "B", "duracao": "2:39", "mb": 19.6}, {"n": 14, "arquivo": "14-trocar-seringa-tubo-e-canula", "titulo": "Trocar seringa, tubo e cânula", "descricao": "A troca completa de seringa, tubo e cânula.", "parte": "B", "duracao": "2:27", "mb": 19.6}, {"n": 15, "arquivo": "15-opcoes-de-dose", "titulo": "Opções de dose", "descricao": "Taxa de infusão, dose extra e dose de ataque.", "parte": "C", "duracao": "1:30", "mb": 9.9}, {"n": 16, "arquivo": "16-alarmes-e-mensagens", "titulo": "Alarmes e mensagens da bomba", "descricao": "O que a bomba avisa e o que fazer.", "parte": "C", "duracao": "1:51", "mb": 11.4}];
+const PARTES = {"A": "Parte A · Primeira infusão", "B": "Parte B · Dia a dia", "C": "Parte C · Doses e alarmes"};
+const CHAVE = "treinamento-foslevodopa-vistos";
+const $ = (id) => document.getElementById(id);
+const video = $("video");
+let atual = 0;
+
+function lerVistos() {
+  try { return new Set(JSON.parse(localStorage.getItem(CHAVE) || "[]")); } catch (e) { return new Set(); }
+}
+function gravarVistos(vistos) {
+  try { localStorage.setItem(CHAVE, JSON.stringify([...vistos])); } catch (e) { /* sem armazenamento: segue sem marcar */ }
+}
+let vistos = lerVistos();
+
+function montarLista() {
+  const area = $("videos");
+  for (const parte of Object.keys(PARTES)) {
+    const h = document.createElement("h2");
+    h.className = "parte";
+    h.textContent = PARTES[parte];
+    const ol = document.createElement("ol");
+    ol.className = "lista";
+    VIDEOS.forEach((v, i) => {
+      if (v.parte !== parte) return;
+      const li = document.createElement("li");
+      const b = document.createElement("button");
+      b.type = "button";
+      b.className = "item";
+      b.id = "item-" + i;
+      b.innerHTML = '<span class="num"></span><span><span class="nome"></span><span class="desc"></span></span>' +
+                    '<span class="meta"><span class="dur"></span><span class="ok">✓ assistido</span></span>';
+      b.querySelector(".num").textContent = v.n;
+      b.querySelector(".nome").textContent = v.titulo;
+      b.querySelector(".desc").textContent = v.descricao;
+      b.querySelector(".dur").textContent = v.duracao + " min";
+      b.addEventListener("click", () => abrir(i, true));
+      li.appendChild(b);
+      ol.appendChild(li);
+    });
+    area.appendChild(h);
+    area.appendChild(ol);
+  }
+}
+
+function marcar() {
+  VIDEOS.forEach((v, i) => {
+    const b = $("item-" + i);
+    b.classList.toggle("visto", vistos.has(v.n));
+    if (i === atual) b.setAttribute("aria-current", "true"); else b.removeAttribute("aria-current");
+  });
+}
+
+function abrir(i, tocar) {
+  atual = Math.max(0, Math.min(VIDEOS.length - 1, i));
+  const v = VIDEOS[atual];
+  $("posicao").textContent = "Vídeo " + v.n + " de " + VIDEOS.length;
+  $("titulo").textContent = v.titulo;
+  $("descricao").textContent = v.descricao + " Duração: " + v.duracao + " min.";
+  $("concluido").classList.remove("visivel");
+  video.poster = "capas/" + v.arquivo + ".jpg";
+  video.src = "videos/" + v.arquivo + ".mp4";
+  $("anterior").disabled = atual === 0;
+  $("proximo").disabled = atual === VIDEOS.length - 1;
+  marcar();
+  try { history.replaceState(null, "", "#video-" + String(v.n).padStart(2, "0")); } catch (e) { /* ignora */ }
+  if (tocar) {
+    $("tocador").scrollIntoView();
+    const p = video.play();
+    if (p && p.catch) p.catch(() => {});
+  }
+}
+
+video.addEventListener("ended", () => {
+  const v = VIDEOS[atual];
+  vistos.add(v.n);
+  gravarVistos(vistos);
+  marcar();
+  const aviso = $("concluido");
+  aviso.textContent = atual < VIDEOS.length - 1
+    ? "Vídeo concluído. O próximo é: " + VIDEOS[atual + 1].titulo + "."
+    : "Vídeo concluído. Este foi o último vídeo da série.";
+  aviso.classList.add("visivel");
+});
+$("anterior").addEventListener("click", () => abrir(atual - 1, true));
+$("proximo").addEventListener("click", () => abrir(atual + 1, true));
+
+montarLista();
+const pedido = /^#video-(\d+)$/.exec(location.hash);
+const inicial = pedido ? VIDEOS.findIndex((v) => v.n === Number(pedido[1])) : -1;
+abrir(inicial >= 0 ? inicial : 0, false);
+</script>
+</body>
+</html>

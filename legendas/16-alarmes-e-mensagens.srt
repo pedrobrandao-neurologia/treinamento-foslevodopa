@@ -1,0 +1,232 @@
+1
+00:00:00,880 --> 00:00:03,709
+Alarmes e mensagens da bomba.
+
+2
+00:00:04,009 --> 00:00:06,409
+A bomba mostra mensagens e emite
+
+3
+00:00:06,409 --> 00:00:08,409
+alarmes para avisar que você talvez
+
+4
+00:00:08,409 --> 00:00:10,531
+precise fazer alguma coisa.
+
+5
+00:00:10,531 --> 00:00:12,697
+Veja alguns exemplos.
+
+6
+00:00:12,801 --> 00:00:14,641
+A bomba avisa quando faltam 2
+
+7
+00:00:14,641 --> 00:00:16,241
+horas para a seringa acabar,
+
+8
+00:00:16,241 --> 00:00:18,454
+e de novo quando faltam 45
+
+9
+00:00:18,454 --> 00:00:19,632
+minutos.
+
+10
+00:00:19,632 --> 00:00:20,512
+Nesse momento,
+
+11
+00:00:20,512 --> 00:00:22,912
+tire da geladeira o próximo frasco
+
+12
+00:00:22,912 --> 00:00:24,430
+de medicamento.
+
+13
+00:00:24,551 --> 00:00:26,231
+Ela avisa se a seringa está
+
+14
+00:00:26,231 --> 00:00:28,591
+vazia e precisa ser trocada.
+
+15
+00:00:28,591 --> 00:00:30,591
+Avisa também quando a seringa está
+
+16
+00:00:30,591 --> 00:00:33,092
+na bomba há 24 horas.
+
+17
+00:00:33,176 --> 00:00:34,432
+Lembre:
+
+18
+00:00:34,432 --> 00:00:36,192
+a seringa e o medicamento que
+
+19
+00:00:36,192 --> 00:00:38,592
+sobrar devem ser descartados depois
+
+20
+00:00:38,592 --> 00:00:40,658
+de 24 horas.
+
+21
+00:00:40,760 --> 00:00:43,686
+Há muitos outros alarmes e mensagens.
+
+22
+00:00:43,686 --> 00:00:45,126
+Cada um é de alta ou
+
+23
+00:00:45,126 --> 00:00:47,151
+de baixa prioridade.
+
+24
+00:00:47,382 --> 00:00:49,382
+Alarme de alta prioridade quer
+
+25
+00:00:49,382 --> 00:00:51,142
+dizer que a bomba parou e
+
+26
+00:00:51,142 --> 00:00:53,041
+que você precisa agir na hora.
+
+27
+00:00:53,041 --> 00:00:55,041
+Aparece na tela um símbolo vermelho
+
+28
+00:00:55,041 --> 00:00:55,761
+de atenção,
+
+29
+00:00:55,761 --> 00:00:57,802
+e a bomba emite um som.
+
+30
+00:01:01,469 --> 00:01:03,229
+Pressione OK para confirmar que
+
+31
+00:01:03,229 --> 00:01:04,189
+ouviu o alarme,
+
+32
+00:01:04,189 --> 00:01:05,420
+e o som para.
+
+33
+00:01:05,420 --> 00:01:06,060
+Depois,
+
+34
+00:01:06,060 --> 00:01:08,060
+consulte as instruções de uso da
+
+35
+00:01:08,060 --> 00:01:09,900
+bomba para saber como resolver
+
+36
+00:01:09,900 --> 00:01:11,151
+o problema.
+
+37
+00:01:11,341 --> 00:01:13,501
+Alarme de baixa prioridade quer
+
+38
+00:01:13,501 --> 00:01:15,501
+dizer que você precisa fazer algo
+
+39
+00:01:15,501 --> 00:01:16,141
+em breve,
+
+40
+00:01:16,141 --> 00:01:17,821
+para evitar um alarme de alta
+
+41
+00:01:17,821 --> 00:01:19,597
+prioridade mais tarde.
+
+42
+00:01:19,597 --> 00:01:21,917
+Aparece na tela um símbolo amarelo
+
+43
+00:01:21,917 --> 00:01:23,240
+de atenção.
+
+44
+00:01:23,345 --> 00:01:25,265
+Cada alarme tem um motivo e
+
+45
+00:01:25,265 --> 00:01:26,512
+um som próprio.
+
+46
+00:01:26,512 --> 00:01:27,552
+A lista completa,
+
+47
+00:01:27,552 --> 00:01:29,472
+com o significado de cada alarme
+
+48
+00:01:29,472 --> 00:01:30,352
+e o que fazer,
+
+49
+00:01:30,352 --> 00:01:31,872
+está nas instruções de uso da
+
+50
+00:01:31,872 --> 00:01:32,942
+bomba.
+
+51
+00:01:34,762 --> 00:01:36,602
+Não mexa no sistema de infusão
+
+52
+00:01:36,602 --> 00:01:38,282
+enquanto estiver dirigindo,
+
+53
+00:01:38,282 --> 00:01:40,442
+operando máquinas ou fazendo outra
+
+54
+00:01:40,442 --> 00:01:42,922
+atividade em que distrações precisam
+
+55
+00:01:42,922 --> 00:01:44,438
+ser evitadas.
+
+56
+00:01:44,754 --> 00:01:46,434
+Este foi o último vídeo da
+
+57
+00:01:46,434 --> 00:01:47,312
+série.
+
+58
+00:01:47,312 --> 00:01:50,447
+Reveja os vídeos sempre que precisar.
+

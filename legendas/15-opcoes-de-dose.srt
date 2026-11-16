@@ -1,0 +1,200 @@
+1
+00:00:00,800 --> 00:00:03,429
+As opções de dose da bomba.
+
+2
+00:00:03,717 --> 00:00:04,757
+A bomba pode ter,
+
+3
+00:00:04,757 --> 00:00:05,317
+no menu,
+
+4
+00:00:05,317 --> 00:00:06,848
+opções de dose.
+
+5
+00:00:06,848 --> 00:00:09,168
+São maneiras diferentes de mudar
+
+6
+00:00:09,168 --> 00:00:12,361
+a quantidade de medicamento infundida.
+
+7
+00:00:12,547 --> 00:00:13,791
+Atenção:
+
+8
+00:00:13,791 --> 00:00:15,871
+pode ser que essas opções não
+
+9
+00:00:15,871 --> 00:00:18,328
+estejam disponíveis na sua bomba.
+
+10
+00:00:18,328 --> 00:00:20,248
+Depende de como o seu médico
+
+11
+00:00:20,248 --> 00:00:21,528
+a programou.
+
+12
+00:00:21,528 --> 00:00:22,168
+Na dúvida,
+
+13
+00:00:22,168 --> 00:00:24,197
+ligue para o seu médico.
+
+14
+00:00:24,301 --> 00:00:26,061
+A primeira opção é mudar a
+
+15
+00:00:26,061 --> 00:00:27,449
+taxa de infusão.
+
+16
+00:00:27,449 --> 00:00:29,369
+A taxa determina por quanto tempo
+
+17
+00:00:29,369 --> 00:00:31,449
+uma seringa é usada e quanto
+
+18
+00:00:31,449 --> 00:00:33,690
+medicamento você recebe.
+
+19
+00:00:33,801 --> 00:00:34,441
+Para mudar,
+
+20
+00:00:34,441 --> 00:00:36,601
+pressione Menu e selecione Alterar
+
+21
+00:00:36,601 --> 00:00:37,675
+Taxa.
+
+22
+00:00:39,260 --> 00:00:41,020
+A segunda opção é a dose
+
+23
+00:00:41,020 --> 00:00:41,821
+extra:
+
+24
+00:00:41,821 --> 00:00:44,301
+uma pequena quantidade de medicamento,
+
+25
+00:00:44,301 --> 00:00:46,625
+infundida em pouco tempo.
+
+26
+00:00:47,927 --> 00:00:49,687
+A terceira opção é a dose
+
+27
+00:00:49,687 --> 00:00:50,697
+de ataque:
+
+28
+00:00:50,697 --> 00:00:51,817
+uma dose maior,
+
+29
+00:00:51,817 --> 00:00:53,497
+que flui mais depressa do que
+
+30
+00:00:53,497 --> 00:00:55,039
+a dose habitual.
+
+31
+00:00:57,469 --> 00:00:59,229
+Ela é usada quando você liga
+
+32
+00:00:59,229 --> 00:01:01,069
+a bomba pela primeira vez ou
+
+33
+00:01:01,069 --> 00:01:02,829
+quando a bomba ficou desligada
+
+34
+00:01:02,829 --> 00:01:04,349
+por pelo menos 3 horas,
+
+35
+00:01:04,349 --> 00:01:06,349
+se o seu médico tiver habilitado
+
+36
+00:01:06,349 --> 00:01:07,370
+essa opção.
+
+37
+00:01:07,370 --> 00:01:09,050
+O médico define um tempo de
+
+38
+00:01:09,050 --> 00:01:09,770
+bloqueio,
+
+39
+00:01:09,770 --> 00:01:11,370
+que limita a frequência com que
+
+40
+00:01:11,370 --> 00:01:12,810
+a dose de ataque pode ser
+
+41
+00:01:12,810 --> 00:01:13,880
+dada.
+
+42
+00:01:13,969 --> 00:01:16,449
+Se essas opções estiverem disponíveis
+
+43
+00:01:16,449 --> 00:01:17,009
+para você,
+
+44
+00:01:17,009 --> 00:01:18,689
+pergunte ao seu médico como e
+
+45
+00:01:18,689 --> 00:01:19,737
+quando usar.
+
+46
+00:01:19,737 --> 00:01:21,657
+As instruções de uso que vieram
+
+47
+00:01:21,657 --> 00:01:24,669
+com a bomba trazem mais informações.
+
+48
+00:01:25,121 --> 00:01:26,756
+No próximo vídeo:
+
+49
+00:01:26,756 --> 00:01:28,756
+os alarmes e as mensagens da
+
+50
+00:01:28,756 --> 00:01:29,865
+bomba.
+

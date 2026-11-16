@@ -1,0 +1,256 @@
+1
+00:00:00,800 --> 00:00:01,680
+Passo 2,
+
+2
+00:00:01,680 --> 00:00:03,027
+continuação:
+
+3
+00:00:03,027 --> 00:00:04,787
+conectar o tubo e colocar a
+
+4
+00:00:04,787 --> 00:00:06,512
+seringa na bomba.
+
+5
+00:00:06,800 --> 00:00:08,080
+O tubo de infusão é um
+
+6
+00:00:08,080 --> 00:00:09,120
+tubo longo e fino,
+
+7
+00:00:09,120 --> 00:00:10,960
+que leva o medicamento da bomba
+
+8
+00:00:10,960 --> 00:00:12,037
+até você.
+
+9
+00:00:12,037 --> 00:00:14,197
+Ele vem na mesma embalagem do
+
+10
+00:00:14,197 --> 00:00:16,914
+dispositivo de inserção da cânula.
+
+11
+00:00:17,089 --> 00:00:18,849
+Tire o tubo da embalagem e
+
+12
+00:00:18,849 --> 00:00:20,543
+retire o papel.
+
+13
+00:00:22,593 --> 00:00:25,879
+O tubo tem duas extremidades diferentes.
+
+14
+00:00:25,879 --> 00:00:28,000
+Esta é o conector do local:
+
+15
+00:00:28,000 --> 00:00:29,440
+ela se liga à cânula,
+
+16
+00:00:29,440 --> 00:00:30,530
+na barriga.
+
+17
+00:00:30,530 --> 00:00:32,450
+A outra extremidade se liga à
+
+18
+00:00:32,450 --> 00:00:34,091
+ponta da seringa.
+
+19
+00:00:34,177 --> 00:00:36,017
+Segure a seringa com a ponta
+
+20
+00:00:36,017 --> 00:00:36,934
+para cima.
+
+21
+00:00:36,934 --> 00:00:38,614
+Pegue a extremidade do tubo que
+
+22
+00:00:38,614 --> 00:00:40,214
+vai na seringa e conecte,
+
+23
+00:00:40,214 --> 00:00:42,054
+pressionando e girando no sentido
+
+24
+00:00:42,054 --> 00:00:43,180
+horário.
+
+25
+00:00:43,886 --> 00:00:44,446
+Agora,
+
+26
+00:00:44,446 --> 00:00:46,286
+vamos colocar a seringa dentro
+
+27
+00:00:46,286 --> 00:00:47,282
+da bomba.
+
+28
+00:00:47,282 --> 00:00:49,522
+Pressione qualquer botão para acender
+
+29
+00:00:49,522 --> 00:00:50,705
+a tela.
+
+30
+00:00:50,883 --> 00:00:52,989
+Pressione o botão Menu.
+
+31
+00:00:52,989 --> 00:00:55,230
+Aparecem algumas opções.
+
+32
+00:00:55,230 --> 00:00:57,630
+Destaque Inserir Seringa e pressione
+
+33
+00:00:57,630 --> 00:00:58,905
+Selecionar.
+
+34
+00:01:00,053 --> 00:01:01,733
+Deslize a trava e abra a
+
+35
+00:01:01,733 --> 00:01:03,252
+tampa da bomba.
+
+36
+00:01:04,762 --> 00:01:06,922
+Alinhe a seringa com os encaixes
+
+37
+00:01:06,922 --> 00:01:08,389
+de dentro da bomba.
+
+38
+00:01:08,389 --> 00:01:09,909
+A ponta que está ligada ao
+
+39
+00:01:09,909 --> 00:01:11,851
+tubo fica para fora.
+
+40
+00:01:12,051 --> 00:01:13,483
+Feche a tampa.
+
+41
+00:01:13,483 --> 00:01:14,923
+Quando ouvir um estalo,
+
+42
+00:01:14,923 --> 00:01:16,931
+ela está bem fechada.
+
+43
+00:01:18,430 --> 00:01:20,190
+Pressione Sim para confirmar que
+
+44
+00:01:20,190 --> 00:01:22,445
+a seringa está dentro da bomba.
+
+45
+00:01:22,445 --> 00:01:24,605
+A bomba prepara o medicamento para
+
+46
+00:01:24,605 --> 00:01:25,611
+uso.
+
+47
+00:01:25,722 --> 00:01:27,082
+Se a seringa não couber na
+
+48
+00:01:27,082 --> 00:01:27,482
+bomba,
+
+49
+00:01:27,482 --> 00:01:29,082
+veja se o empurrador da haste
+
+50
+00:01:29,082 --> 00:01:29,882
+do êmbolo,
+
+51
+00:01:29,882 --> 00:01:30,842
+dentro da bomba,
+
+52
+00:01:30,842 --> 00:01:32,588
+está na posição correta.
+
+53
+00:01:32,588 --> 00:01:34,108
+Veja também se o ar foi
+
+54
+00:01:34,108 --> 00:01:35,992
+retirado da seringa.
+
+55
+00:01:36,261 --> 00:01:38,241
+Resumo do passo 2:
+
+56
+00:01:38,241 --> 00:01:40,001
+passar o medicamento do frasco
+
+57
+00:01:40,001 --> 00:01:40,801
+para a seringa,
+
+58
+00:01:40,801 --> 00:01:42,481
+com o adaptador do frasco;
+
+59
+00:01:42,481 --> 00:01:44,161
+conectar o tubo à seringa;
+
+60
+00:01:44,161 --> 00:01:46,001
+colocar a seringa cheia na bomba;
+
+61
+00:01:46,001 --> 00:01:48,316
+e seguir as instruções da tela.
+
+62
+00:01:49,375 --> 00:01:51,010
+No próximo vídeo:
+
+63
+00:01:51,010 --> 00:01:51,730
+passo três,
+
+64
+00:01:51,730 --> 00:01:53,584
+preencher o tubo.
+

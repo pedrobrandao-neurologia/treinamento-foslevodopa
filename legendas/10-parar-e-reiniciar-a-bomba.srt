@@ -1,0 +1,140 @@
+1
+00:00:00,800 --> 00:00:03,537
+Como parar e reiniciar a bomba.
+
+2
+00:00:03,842 --> 00:00:05,522
+Você vai parar e reiniciar a
+
+3
+00:00:05,522 --> 00:00:07,762
+bomba sempre que trocar o material
+
+4
+00:00:07,762 --> 00:00:10,166
+ou se desconectar do sistema.
+
+5
+00:00:10,339 --> 00:00:11,651
+Mas lembre:
+
+6
+00:00:11,651 --> 00:00:13,331
+se a infusão ficar parada por
+
+7
+00:00:13,331 --> 00:00:14,211
+mais de 1 hora,
+
+8
+00:00:14,211 --> 00:00:15,651
+troque a cânula e o tubo
+
+9
+00:00:15,651 --> 00:00:16,451
+de infusão,
+
+10
+00:00:16,451 --> 00:00:18,316
+porque eles podem entupir.
+
+11
+00:00:18,316 --> 00:00:20,636
+Outro vídeo mostra como fazer essa
+
+12
+00:00:20,636 --> 00:00:21,779
+troca.
+
+13
+00:00:21,884 --> 00:00:23,004
+Para parar a bomba,
+
+14
+00:00:23,004 --> 00:00:25,084
+acenda a tela pressionando qualquer
+
+15
+00:00:25,084 --> 00:00:25,865
+botão.
+
+16
+00:00:25,865 --> 00:00:26,825
+Pressione Menu,
+
+17
+00:00:26,825 --> 00:00:28,825
+destaque Parar Bomba e pressione
+
+18
+00:00:28,825 --> 00:00:30,121
+Selecionar.
+
+19
+00:00:31,759 --> 00:00:34,312
+A tela pede que você confirme.
+
+20
+00:00:34,312 --> 00:00:35,826
+Pressione Sim.
+
+21
+00:00:35,826 --> 00:00:38,466
+O medicamento para de fluir.
+
+22
+00:00:38,551 --> 00:00:39,447
+Se deu certo,
+
+23
+00:00:39,447 --> 00:00:40,791
+um indicador vermelho,
+
+24
+00:00:40,791 --> 00:00:42,791
+no canto superior direito da tela,
+
+25
+00:00:42,791 --> 00:00:45,030
+mostra que a bomba está parada.
+
+26
+00:00:45,135 --> 00:00:46,015
+Para reiniciar,
+
+27
+00:00:46,015 --> 00:00:48,095
+acenda a tela pressionando qualquer
+
+28
+00:00:48,095 --> 00:00:48,865
+botão.
+
+29
+00:00:48,865 --> 00:00:49,825
+Pressione Menu,
+
+30
+00:00:49,825 --> 00:00:51,985
+destaque Iniciar Bomba e pressione
+
+31
+00:00:51,985 --> 00:00:52,958
+Selecionar.
+
+32
+00:00:52,958 --> 00:00:53,518
+Depois,
+
+33
+00:00:53,518 --> 00:00:55,881
+pressione Sim para confirmar.
+
+34
+00:01:00,329 --> 00:01:01,964
+No próximo vídeo:
+
+35
+00:01:01,964 --> 00:01:04,643
+como trocar somente a seringa.
+

@@ -1,0 +1,396 @@
+1
+00:00:00,800 --> 00:00:02,068
+Passo 1:
+
+2
+00:00:02,068 --> 00:00:03,390
+planejar.
+
+3
+00:00:03,675 --> 00:00:04,235
+Primeiro,
+
+4
+00:00:04,235 --> 00:00:05,835
+lave bem as mãos com água
+
+5
+00:00:05,835 --> 00:00:07,895
+e sabão por pelo menos 20
+
+6
+00:00:07,895 --> 00:00:08,695
+segundos.
+
+7
+00:00:08,695 --> 00:00:10,215
+Esfregue a palma e o dorso
+
+8
+00:00:10,215 --> 00:00:11,095
+das duas mãos,
+
+9
+00:00:11,095 --> 00:00:12,695
+entre os dedos e embaixo das
+
+10
+00:00:12,695 --> 00:00:13,612
+unhas.
+
+11
+00:00:13,612 --> 00:00:15,452
+Seque com uma toalha de papel
+
+12
+00:00:15,452 --> 00:00:16,512
+nova.
+
+13
+00:00:16,592 --> 00:00:17,872
+Ao longo do preparo,
+
+14
+00:00:17,872 --> 00:00:19,312
+você vai lavar as mãos e
+
+15
+00:00:19,312 --> 00:00:21,072
+limpar a bancada mais de uma
+
+16
+00:00:21,072 --> 00:00:24,426
+vez. Isso se chama técnica asséptica:
+
+17
+00:00:24,426 --> 00:00:25,866
+é o cuidado para que tudo
+
+18
+00:00:25,866 --> 00:00:27,306
+o que você toca fique o
+
+19
+00:00:27,306 --> 00:00:28,909
+mais limpo possível.
+
+20
+00:00:28,909 --> 00:00:31,116
+Mãos e bancada limpas ajudam a
+
+21
+00:00:31,116 --> 00:00:32,909
+reduzir o risco de infecção e
+
+22
+00:00:32,909 --> 00:00:35,412
+de irritação no local de infusão.
+
+23
+00:00:35,749 --> 00:00:36,309
+Em seguida,
+
+24
+00:00:36,309 --> 00:00:38,647
+pegue o frasco do medicamento.
+
+25
+00:00:38,647 --> 00:00:40,167
+Se ele estava na geladeira,
+
+26
+00:00:40,167 --> 00:00:42,297
+deixe em temperatura ambiente por
+
+27
+00:00:42,297 --> 00:00:44,384
+30 minutos antes de usar.
+
+28
+00:00:44,384 --> 00:00:46,464
+Não aqueça o medicamento de nenhuma
+
+29
+00:00:46,464 --> 00:00:48,464
+outra forma e mantenha o frasco
+
+30
+00:00:48,464 --> 00:00:50,655
+longe da luz direta do sol.
+
+31
+00:00:50,759 --> 00:00:51,239
+Agora,
+
+32
+00:00:51,239 --> 00:00:53,650
+prepare um espaço para trabalhar.
+
+33
+00:00:53,650 --> 00:00:56,282
+Pode ser qualquer superfície plana.
+
+34
+00:00:56,282 --> 00:00:57,962
+Limpe bem a área e seque
+
+35
+00:00:57,962 --> 00:01:00,210
+com uma toalha de papel nova.
+
+36
+00:01:00,301 --> 00:01:00,861
+Depois,
+
+37
+00:01:00,861 --> 00:01:02,437
+reúna o material.
+
+38
+00:01:02,437 --> 00:01:04,677
+Mantenha cada item na embalagem
+
+39
+00:01:04,677 --> 00:01:06,464
+até a hora de usar.
+
+40
+00:01:08,926 --> 00:01:10,606
+Você vai precisar da bomba,
+
+41
+00:01:10,606 --> 00:01:12,206
+do frasco do medicamento,
+
+42
+00:01:12,206 --> 00:01:13,806
+do adaptador do frasco e da
+
+43
+00:01:13,806 --> 00:01:14,700
+seringa.
+
+44
+00:01:14,700 --> 00:01:16,460
+O conjunto de infusão traz,
+
+45
+00:01:16,460 --> 00:01:17,660
+na mesma embalagem,
+
+46
+00:01:17,660 --> 00:01:18,460
+o tubo,
+
+47
+00:01:18,460 --> 00:01:20,220
+o dispositivo de inserção e a
+
+48
+00:01:20,220 --> 00:01:21,115
+cânula.
+
+49
+00:01:21,115 --> 00:01:23,115
+Separe também toalhas de papel
+
+50
+00:01:23,115 --> 00:01:25,926
+novas e lenços umedecidos com álcool.
+
+51
+00:01:25,926 --> 00:01:26,486
+Por fim,
+
+52
+00:01:26,486 --> 00:01:28,326
+uma bateria da bomba com carga
+
+53
+00:01:28,326 --> 00:01:29,260
+completa.
+
+54
+00:01:29,260 --> 00:01:31,260
+Deixe material extra por perto,
+
+55
+00:01:31,260 --> 00:01:32,855
+caso precise.
+
+56
+00:01:32,968 --> 00:01:34,808
+Olhe a embalagem de cada item
+
+57
+00:01:34,808 --> 00:01:36,408
+e confira se há danos e
+
+58
+00:01:36,408 --> 00:01:38,371
+qual é a data de validade.
+
+59
+00:01:38,371 --> 00:01:40,851
+Se algo estiver danificado ou vencido,
+
+60
+00:01:40,851 --> 00:01:42,124
+não use.
+
+61
+00:01:42,218 --> 00:01:44,491
+Confira também o frasco.
+
+62
+00:01:44,491 --> 00:01:46,251
+Veja no rótulo o nome do
+
+63
+00:01:46,251 --> 00:01:47,425
+medicamento.
+
+64
+00:01:47,425 --> 00:01:49,025
+A cor da solução pode ser
+
+65
+00:01:49,025 --> 00:01:50,785
+diferente da que aparece neste
+
+66
+00:01:50,785 --> 00:01:51,265
+vídeo,
+
+67
+00:01:51,265 --> 00:01:52,642
+e isso é normal.
+
+68
+00:01:52,642 --> 00:01:54,242
+Mas a solução não pode estar
+
+69
+00:01:54,242 --> 00:01:54,882
+turva,
+
+70
+00:01:54,882 --> 00:01:57,317
+nem ter partículas ou flocos.
+
+71
+00:01:57,317 --> 00:01:59,237
+Se a solução não parecer normal,
+
+72
+00:01:59,237 --> 00:02:01,105
+não use esse frasco.
+
+73
+00:02:01,218 --> 00:02:03,218
+Coloque na bomba uma bateria com
+
+74
+00:02:03,218 --> 00:02:04,555
+carga completa.
+
+75
+00:02:04,555 --> 00:02:07,099
+A bomba vem com duas baterias:
+
+76
+00:02:07,099 --> 00:02:09,339
+deixe sempre uma carregando enquanto
+
+77
+00:02:09,339 --> 00:02:11,015
+a outra está em uso.
+
+78
+00:02:11,015 --> 00:02:12,855
+Alinhe os contatos metálicos da
+
+79
+00:02:12,855 --> 00:02:14,775
+bateria com os do compartimento
+
+80
+00:02:14,775 --> 00:02:16,021
+e encaixe.
+
+81
+00:02:16,021 --> 00:02:18,156
+Você vai ouvir um clique.
+
+82
+00:02:18,156 --> 00:02:18,636
+Depois,
+
+83
+00:02:18,636 --> 00:02:20,556
+a bomba emite alguns sons de
+
+84
+00:02:20,556 --> 00:02:22,047
+inicialização.
+
+85
+00:02:22,593 --> 00:02:23,073
+Agora,
+
+86
+00:02:23,073 --> 00:02:24,753
+lave as mãos pela segunda vez
+
+87
+00:02:24,753 --> 00:02:26,353
+e seque com uma toalha de
+
+88
+00:02:26,353 --> 00:02:27,693
+papel nova.
+
+89
+00:02:31,298 --> 00:02:33,068
+Resumo do passo 1:
+
+90
+00:02:33,068 --> 00:02:34,348
+lavar bem as mãos;
+
+91
+00:02:34,348 --> 00:02:36,108
+deixar o frasco em temperatura
+
+92
+00:02:36,108 --> 00:02:37,548
+ambiente por 30 minutos,
+
+93
+00:02:37,548 --> 00:02:38,828
+se estava na geladeira;
+
+94
+00:02:38,828 --> 00:02:39,948
+limpar a bancada;
+
+95
+00:02:39,948 --> 00:02:41,628
+reunir e conferir o material;
+
+96
+00:02:41,628 --> 00:02:43,740
+e lavar as mãos de novo.
+
+97
+00:02:44,787 --> 00:02:46,422
+No próximo vídeo:
+
+98
+00:02:46,422 --> 00:02:47,302
+passo dois,
+
+99
+00:02:47,302 --> 00:02:49,048
+preparar a seringa.
+
